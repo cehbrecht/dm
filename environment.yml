@@ -10,5 +10,6 @@ dependencies:
   - xarray
   - dask
   - netcdf4
+  - numpy
   - matplotlib
   - cartopy
